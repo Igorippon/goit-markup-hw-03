@@ -96,7 +96,6 @@ body {
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    margin-right: 76px;
     color: var(--primary-brand);
 }
 
@@ -107,6 +106,7 @@ body {
 .headerly-list {
     display: flex;
     gap: 40px;
+    margin-left: 76px;
 }
 
 .headerly-item {}
@@ -152,6 +152,7 @@ body {
     background: var(--dark);
     padding-top: 188px;
     padding-bottom: 188px;
+
 }
 
 .hero-title {
